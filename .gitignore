@@ -1,0 +1,39 @@
+# Elixir
+/_build
+/deps
+/.elixir_ls
+
+# Phoenix
+/assets/node_modules
+/assets/package-lock.json
+/assets/yarn.lock
+/assets/vendor
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Compiled Elixir files
+*.ez
+*.beam
+
+# Coverage
+/cover/
+
+# Test results
+/test/tmp/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+/log/*
